@@ -42,7 +42,7 @@ Generative AI refers to artificial intelligence models capable of generating **n
 
 ## 🎬 Project Demo
 📹 <div align="center">
-  <img src="https://github.com/user-attachments/assets/35249e74-04fa-489f-9d76-5d11278b858c" alt=" Banner" />
+  <img width = 500 src="https://github.com/user-attachments/assets/35249e74-04fa-489f-9d76-5d11278b858c" alt=" Banner" />
 </div>
 
 ---
@@ -122,7 +122,15 @@ Output:
 
 💡 This project is a team effort! Special thanks to the following contributors:
 
-Priyam Jain 23BAI11158
+
+- Priyam Jain 23BAI11158
+- Anshika Garg 23BAI10144: [@anshikagarg12](https://github.com/anshikagarg12)  
+- [@Divyakiran-create](https://github.com/Divyakiran-create)
+- [@Keshav577-coder](https://github.com/Keshav577-coder)
+- Anushka Singh 23BAI11260 [@s7anushka](https://github.com/s7anushka)
+  
+
+
 
 Want to contribute? Fork & PR are welcome! 🎉
 
@@ -131,14 +139,6 @@ Want to contribute? Fork & PR are welcome! 🎉
 ## 📜 License
 MIT License © 2025
 
----
-
-## 📧 Contact
-📌 **Project Maintainer:** [Your Name]  
-📌 **Email:** your.email@example.com  
-📌 **GitHub:** [Your GitHub Profile](https://github.com/your-username/)  
-
----
 
 ⭐ **If you liked this project, give it a star!** ⭐
 
